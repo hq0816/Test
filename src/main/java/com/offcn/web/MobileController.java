@@ -8,7 +8,11 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.offcn.model.Mobile;
 import com.offcn.service.MobileService;
-
+/***
+ * this a annotation
+ * @author ibm
+ *
+ */
 @Controller
 public class MobileController {
 
